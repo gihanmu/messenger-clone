@@ -1,0 +1,11 @@
+.message {
+    width: max-content;
+    margin: 20px;
+    padding: 10px;
+}
+
+.current-user {
+    margin-left: auto;
+    background-color: #0078FF !important;
+    color: #ffffff !important;
+}
